@@ -18,6 +18,11 @@ input[type='button'] {
     border-radius: 15px;
 }
 
+input[type='text'] {
+    font-size: larger;
+    color: black;
+}
+
 a:visited {
     color: white;
 }
@@ -27,5 +32,25 @@ a:hover{
 }
 
 .section-2 {
+    background-color: #00aaff;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
 
+.section-3 {
+    background-color: #00aaff;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.section-4 {
+    background-color: #175125;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }

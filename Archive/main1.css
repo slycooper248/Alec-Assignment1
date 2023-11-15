@@ -12,13 +12,23 @@ body {
 }
 
 P1{
-    font-size: 20px;
+    font-size: 15px;
+    display: block;
 }
 
 P2{
-    font-size: 25px;
-    flex-direction: column;
+    font-size: 20px;
+    display: block;
+}
 
+P3{
+    font-size: 12px;
+    display: block;
+}
+
+P4{
+    font-size: 6px;
+    display: block;
 }
 
 input[type='button'] {
@@ -42,7 +52,7 @@ a:hover{
 }
 
 .section-2 {
-    background-color: #00aaff;
+    background-color: #0000ff;
     color: white;
     display: flex;
     flex-direction: row;

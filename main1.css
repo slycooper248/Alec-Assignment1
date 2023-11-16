@@ -1,0 +1,170 @@
+body {
+    margin: 0px;
+    font-family: Arial;
+}
+
+.section-1 {
+    background-color: #0000ff;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+input[type='button'] {
+    padding: 7px 30px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 15px;
+}
+
+P1{
+    padding-left: 600px;
+    padding-bottom:5px;
+    font-size: 15px;
+    display: block;
+}
+
+P2{
+    padding-left: 600px;
+    padding-bottom:8px;
+    font-size: 20px;
+    display: block;
+}
+
+P3{
+    padding-left: 600px;
+    padding-bottom:5px;
+    font-size: 12px;
+    display: block;
+}
+
+P4{
+    padding-left: 600px;
+    padding-bottom:4px;
+    font-size: 6px;
+    display: block;
+}
+
+P5{
+    padding-left: 600px;
+    padding-bottom: 2px;
+    padding-top: 20px;
+    display: block;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover{
+    color: maroon;
+}
+
+.section-2 {
+    background-color: #0000ff;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.section-3 {
+    background-color: #0000ff;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+P6{
+        padding-left: 800px;
+        padding-bottom: 60px;
+        padding-top: 60px;
+        display: block;
+}
+
+
+.section-4 {
+    background-color: #0000ff;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.section-5 {
+    background-color: #0000ff;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: normal;
+}
+
+P7{
+    padding-left: 59%;
+    padding-top: 6px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+}
+
+P8{
+    padding-left: 59%;
+    font-size: 11px;
+    padding-right: 1px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    display: block;
+}
+
+P9{
+    padding-left: 59%;
+    font-size: 11px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    display: block;
+}
+
+P10{
+    padding-left: 59%;
+    font-size: 11px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    display: block;
+}
+
+P11{
+    padding-left: 22%;
+    padding-top: 6px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+}
+
+P12{
+    padding-left: 22%;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    font-size: 11px;
+    display: block;
+}
+
+P13{
+    padding-left: 22%;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    font-size: 11px;
+    display: block;
+}
+
+P14{
+    padding-right: 400px;
+    padding-left: 400px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    font-size: 11px;
+    display: block;
+}
